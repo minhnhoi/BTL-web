@@ -1,4 +1,4 @@
-import { BrowserRouter, Navigate, Routes, Route } from "react-router-dom";
+import { HashRouter, Navigate, Routes, Route } from "react-router-dom";
 
 import Layout from "./components/Layout";
 import ProtectedRoute from "./components/ProtectedRoute";
@@ -40,7 +40,7 @@ const workPages = ["admin", "employee"];
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
@@ -139,7 +139,7 @@ function App() {
 
         <Route path="*" element={<HomeRedirect />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
