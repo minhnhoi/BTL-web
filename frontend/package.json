@@ -2,7 +2,7 @@
   "name": "given",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/minhnhoi/BTL-web.git",
+  "homepage": "https://btl-nhom1.minhptit.id.vn",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
