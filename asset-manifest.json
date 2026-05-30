@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minhnhoi/BTL-web.git/static/css/main.3982bb5f.css",
+    "main.js": "/minhnhoi/BTL-web.git/static/js/main.188ae681.js",
+    "index.html": "/minhnhoi/BTL-web.git/index.html",
+    "main.3982bb5f.css.map": "/minhnhoi/BTL-web.git/static/css/main.3982bb5f.css.map",
+    "main.188ae681.js.map": "/minhnhoi/BTL-web.git/static/js/main.188ae681.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.188ae681.js"
+  ]
+}
