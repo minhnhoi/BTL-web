@@ -106,7 +106,9 @@ const assignments = [
     content: [
       "Vì backend khá phức tạp nên cả nhóm cùng trao đổi và thống nhất hướng xây dựng backend chứ không chia ra như phần frontend. ",
       "Các thành viên phối hợp xây dựng backend API, kết nối cơ sở dữ liệu MongoDB, xử lý dữ liệu, tích hợp với frontend và test hệ thống. ",
-      "A,B,C phụ trách tổng hợp ý kiến của nhóm, tích hợp các phần backend, tích hợp các ý kiến sửa lỗi từ mọi người và cập nhật source code backend lên GitHub.",
+      "A, B, C phụ trách tích hợp các phần backend, tích hợp các ý kiến sửa lỗi từ mọi người và cập nhật source code backend lên GitHub. ",
+      "D, E phụ trách Tester, test các chức năng và phản hồi lỗi cho mọi người để sửa và đưa ra các để suất cải thiện hệ thống. ",
+      "Phạm Quang Minh phụ trách việc public project up lên hosting server và cấu hình để chạy ổn định trên domain.",
     ],
   },
 ];
